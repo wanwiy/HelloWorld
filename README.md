@@ -1,3 +1,6 @@
 # HelloWorld
 Hello World App Test
--feature-A
+
+#Git
+- feature-A
+- fix-B
